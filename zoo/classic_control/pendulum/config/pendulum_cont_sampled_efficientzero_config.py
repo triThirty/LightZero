@@ -12,7 +12,7 @@ num_simulations = 50
 update_per_collect = None
 replay_ratio = 0.25
 batch_size = 256
-max_env_step = int(1e6)
+max_env_step = int(1e3)
 reanalyze_ratio = 0.
 norm_type = 'LN'
 # ==============================================================
